@@ -1,0 +1,21 @@
+body {
+  background-color: aqua;
+}
+h1 {
+  color: maroon;
+}
+p {
+  color: black;
+ 
+}
+Avatar{
+	width: 12.5%;
+	float: left;
+	margin-right: 30px;
+}
+
+Avatar img {
+	width: 100%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
